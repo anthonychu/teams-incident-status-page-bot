@@ -18,7 +18,6 @@
 
     Use `StatusPage` as the bot name (this is hardcoded, for now). Paste in the function URL, and enter a description.
 
-    ![Webhook details](webhook-details.png)
+    ![Webhook details](webhook-info.png)
 
     You will be prompted with a secret code for validating webhook calls from Teams. We currently do not use this. Close the dialog box.
-    
