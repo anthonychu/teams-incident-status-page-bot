@@ -8,6 +8,8 @@
 
 - Incident statuses are stored in a table in the Storage account, but there's no way to create this table with ARM. In the Azure portal, open the Storage account and add a table named `statuses`.
 
+    ![Create table](create-table.png)
+
 - Now navigate to the function app, and open the `teams-webhook` function. Click "Get Function URL" and copy the URL.
 
     ![Get Function URL](get-func-url.png)
